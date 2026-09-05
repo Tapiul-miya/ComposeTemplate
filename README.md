@@ -3,7 +3,7 @@
 A production-grade **Jetpack Compose project generator** for Android. Clone it once, run one command, and get a fully wired multi-module app: Clean Architecture feature modules, Gradle convention plugins, Hilt/KSP, Navigation3, Room, Retrofit/OkHttp, NDK-backed secret obfuscation, static analysis, baseline profiles and CI.
 
 ```bash
-git clone https://github.com/mustafayigitt/ComposeTemplate.git
+git clone https://github.com/Tapiul-miya/ComposeTemplate.git
 cd ComposeTemplate
 ./gradlew create-new-app -Pargs='com.example.myapp,MyNewApp' -q --console=plain
 ```
